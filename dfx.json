@@ -1,0 +1,13 @@
+{
+  "canisters": {
+    "vetplus_enigma": {
+      "frontend": {
+        "entrypoint": "out/index.html"
+      },
+      "source": ["out"],
+      "type": "assets"
+    }
+  },
+  "dfx": "0.15.1",
+  "version": 1
+}
